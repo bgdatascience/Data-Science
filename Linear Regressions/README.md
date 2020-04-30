@@ -7,4 +7,4 @@ The dataset is public and available in this repository.
 
 The environment used for this example is <b>Jupyter Notebook</b>.
 
-The packages used in this example are: <b>numpy, pandas, matplotlib, statsmodels, sklearn and seaborn</b>
+The packages used in this example are: <b>numpy, pandas, matplotlib, statsmodels, sklearn</b> and <b>seaborn</b>
