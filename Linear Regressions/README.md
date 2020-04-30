@@ -5,7 +5,7 @@ This example tackles a <em>multiple linear regression</em> on car data. The data
 
 The dataset is public and available in this repository.
 
-The environment used for this example is Jupyter Notebook
+The environment used for this example is <b>Jupyter Notebook</b>.
 
 The packages used in this example are:
 
