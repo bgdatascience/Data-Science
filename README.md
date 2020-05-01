@@ -1,7 +1,7 @@
 # BG Data-Science
 Welcome to my repository!
 
-I am a professional <u>data processor and survey scripter</u> who has worked in <u>market research</u> for more than 4 years and developed a strong interest for data science in the process.
+I am a professional data processor and survey scripter who has worked in market research for more than 4 years and developed a strong interest for data science in the process.
 
 I have a lot of experience with scripting online-surveys in Decipher, pre-processing panel data with SPSS and producing analysis-ready, high quality data files in different formats such as dashboard-ready-structured .csv files, dynamic recurring brand trackers, and highly customized ad-hoc deliveries.
 
