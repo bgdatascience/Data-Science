@@ -1,4 +1,4 @@
-<p style="color:blue;font-size:18px;">Logistic Regression on "Adult" Dataset (Income > 50.000 Dollars)</p>  
+<style="color:blue;font-size:18px;">Logistic Regression on "Adult" Dataset (Income > 50.000 Dollars)</p>  
 
 Keywords: Python, Logistic Regression, Pre-Processing, Predicting Income via Demographics
 
