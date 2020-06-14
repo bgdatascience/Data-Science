@@ -1,7 +1,7 @@
 # Predicting Survivors of the Titanic Shipwreck
 Keywords: <b>Python, Pre-Processing, Classification, Titanic Shipwreck, Pedicting Survivors</b>
 
-This example is based on a competition on "Kaggle.com/c/titanic". The task is to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+This example is based on a competition on <em>Kaggle.com/c/titanic"</em>. The task is to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
 The data consists of a train and test dataset. The train dataset has information on whether or not a passenger survived the Titanic shipwreck. The test data does not have this information and thus, it needs to be predicted for the test cases by training a model on the train dataset. The data will be <em>pre-processed, information will be won from string variables and transformed into numeric form, variables will be categorized and standardized</em>. Several classifiers such as <em>logisitc regression, naive bayes, support vector machines and more</em> will be used to solve the problem.
 
