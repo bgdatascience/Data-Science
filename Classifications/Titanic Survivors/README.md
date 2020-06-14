@@ -9,6 +9,6 @@ The dataset is publicly available on Kaggle under the given link.
 
 The environment used for this example is <b>Jupyter Notebook</b>
 
-The packages used in this example are: <b>pandas, pandas_profiling, numpy, scipy, fancyimpute, sklearn, statsmodels, xgboost and matplotlib</b>
+The packages used in this example are: <b>pandas, pandas_profiling, numpy, scipy, fancyimpute, sklearn, statsmodels, xgboost</b> and <b>matplotlib</b>
 
 The submitted result from this example classified 78% of the survivors in the test dataset correctly.
