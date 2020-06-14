@@ -1,7 +1,7 @@
 # Classifications
 Welcome to the Classifications folder!
 
-In this folder, you will find examples that tackle problems which require a binary solution (yes or no, one or zero).
+In this folder, you will find examples that tackle problems which require <em>binary solutions</em> (yes or no, one or zero).
 
 Several Python packages and methods are used to create algorithms that aim to predict as accurately as possible the binary outcome of a dependent variable based on related inputs. Where possible, predictions are made with these models.
 
