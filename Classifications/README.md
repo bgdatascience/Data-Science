@@ -5,9 +5,9 @@ In this folder, you will find examples that tackle problems which require <em>bi
 
 Several Python packages and methods are used to create algorithms that aim to predict as accurately as possible the binary outcome of a dependent variable based on related input variables. Where possible, predictions are made with these models and an accuracy will be determined.
 
-All examples include pre-processing, including the extraction of information from string variables, categorizations, dealing with missing values, standardization and more.
+All examples include pre-processing, including the <em>extraction of information from string variables, categorization, dealing with missing values, standardization</em> and more.
 
-Please feel free to pick the example you are interested in and dive into the cases and commented notebooks! :)
+Please feel free to pick the example(s) you are interested in and dive into the cases and commented notebooks! :)
 
 Enjoy!
 
