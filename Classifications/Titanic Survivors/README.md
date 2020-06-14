@@ -11,4 +11,4 @@ The environment used for this example is <b>Jupyter Notebook</b>
 
 The packages used in this example are: <b>pandas, pandas_profiling, numpy, scipy, fancyimpute, sklearn, statsmodels, xgboost</b> and <b>matplotlib</b>
 
-The submitted result from this example classified 78% of the survivors in the test dataset correctly.
+The submitted result from this example classified <b>78%</b> of the survivors in the test dataset correctly.
