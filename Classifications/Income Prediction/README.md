@@ -1,10 +1,10 @@
-# Logistic Regression on "Adult" Dataset (Income > 50.000 Dollars)
-Keywords: <b>Python, Logistic Regression, Pre-Processing, Predicting Income via Demographics</b>
+# Test of 13 Classifiers for Income Prediction on "Adult" Dataset (Income > 50.000 Dollars)
+Keywords: <b>Python, Classification, Pre-Processing, Predicting Income via Demographics</b>
 
-This example tackles a <em>logistic regression</em> on the "Adult" dataset. The dataset contains cross-sectional data for adult <em>indviduals</em>. Given a number of categorical, demographic features, a logistic model will be used to predict whether or not an individual is likely to have a yearly household income of more than 50.000 dollars. The data will be <em>pre-processed</em>, the model will be fit to training data, tested on a test dataset, and <em>income predictions</em> will be made for 4 fictional persons with different demographic backgrounds. The process is described in detail in the notebook.
+This example tackles a classification problem where 13 classifiers are used to predict whether or not an individual is likely to have a yearly household income of more than 50.000 dollars. The dataset contains cross-sectional data for indviduals. The data will be <em>pre-processed</em>, <em>classifiers will be fit</em> to training data and <em>tested</em> on a test dataset. The classifiers will be compared regarding their accuracy on both train and test data and <em>income predictions</em> will be made with the best classifier for 3 fictional persons with different demographic backgrounds. The process is described in detail in the notebook, with an initial logistic regression helping to interpret the importance of each regressor for the dependent variable "income".
 
 The dataset is public and available in this repository.
 
 The environment used for this example is <b>Jupyter Notebook</b>
 
-The packages used in this example are: <b>numpy, pandas, matplotlib, statmodels, sklearn</b> and <b>seaborn</b>
+The packages used in this example are: <b>pandas, numpy, statmodels, sklearn</b> and <b>matplotlib</b>
